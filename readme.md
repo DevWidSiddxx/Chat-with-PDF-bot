@@ -74,5 +74,5 @@ https://drive.google.com/drive/folders/1ILiz_ahabnkXM7kFYIWApgEjSlzNrNGU?usp=sha
 ### 🤝 Contribute
 
 Feel free to contribute to this project by improving features, fixing bugs, or optimizing performance.  
-Built  by **Siddharth Venkatesh**.
+Built  by  Siddharth Venkatesh.
 
